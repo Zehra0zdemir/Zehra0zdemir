@@ -1,6 +1,6 @@
 ### Hi, I'm Zehra 🐼
 
-- 🌻 I'm a 4rd-year Software Engineering Student.
+- 🌻 I'm a 4th-year Software Engineering Student.
 - 🌾 I'm expanding my knowledge on ML, DL, AI & algorithms.
 - 🌷 I'm dedicated to continuous growth through projects, research, and collaboration.
 - 🪻 You can connect with me → [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/zehra-özdemir-053430297) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:ozdemirzehra571@gmail.com)
